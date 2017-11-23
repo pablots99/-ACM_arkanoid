@@ -25,6 +25,7 @@ public class Arkanoid extends acm.program.GraphicsProgram{
 	}
 	public void run() {
 		nivel1();
+		
 		while(true) {
 		
 			bola1.muevete(this);
