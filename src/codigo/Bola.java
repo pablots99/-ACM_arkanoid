@@ -20,6 +20,7 @@ public class Bola extends GOval {
 	double yVelocidad =-3 ;
 	public Bola(double _ancho, double _alto) {
 		super(_ancho,_alto);
+		
 	}
 	/**
 	 *
